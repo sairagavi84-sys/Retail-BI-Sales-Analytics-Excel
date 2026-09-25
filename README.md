@@ -3,7 +3,7 @@
 ## Enterprise Retail Business Intelligence & Sales Analytics Dashboard
 
 This project is an interactive Retail Business Intelligence & Sales Analytics Excel Dashboard developed using Microsoft Excel. The project transforms retail transaction data into structured analytical information and presents business performance, customer behavior, sales trends, product performance, and executive-level insights through an interactive Excel dashboard.
-![Dashboard Preview](Dashboard-Preview%20(2).png)
+
 ## Project Objective
 The objective of this project is to analyze retail sales and customer data and convert it into meaningful business insights using Excel. The dashboard helps users understand:
 - Overall sales performance
